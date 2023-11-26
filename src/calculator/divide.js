@@ -1,7 +1,7 @@
 /**
  * Division
  */
-function divvide(firstNum, secondNum) {
+function divide(firstNum, secondNum) {
     return firstNum/secondNum;
   }
   
